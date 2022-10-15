@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../VISHWA"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Day 02"
+	}
+}
